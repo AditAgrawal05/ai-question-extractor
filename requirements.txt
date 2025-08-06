@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai  # Use Google's library
+faiss-cpu
+pymupdf
+python-dotenv
+typer
+tqdm
