@@ -44,7 +44,8 @@ The core workflow is as follows:
     ```
 
 5.  **Download the Data:**
-    Place the `RD_Sharma_Class_12.pdf` file into the `data/` directory.
+    
+    Download the RD Sharma PDF from the https://drive.google.com/file/d/1BQllRXh5_ID08uPTVfEe0DgmxPUm867F/view?usp=sharing. Place the file inside the data/ directory and ensure it is named exactly RD_Sharma_Class_12.pdf.
 
 6.  **Run the extraction script:**
     ```bash
